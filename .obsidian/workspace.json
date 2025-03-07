@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "458c128dee98e49a",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ecdf597bf45eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea7c3e4b27185013",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3c807b2a9b1480c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b575286a843af67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32b7fa3453dd3f06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9939b54051fcab8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "affordance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "998ea08398d0bd0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "f07df19bcfaade2f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "959077e4094b751d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dbc79d6200a18a91",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "e33e07216feda86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3363093803e31f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58959b56eaa033f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Heuristic Evaluation.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Heuristic Evaluation"
+            }
+          },
+          {
+            "id": "8c8b6db9ff1ca801",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sex Determination.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sex Determination"
+            }
+          },
+          {
+            "id": "c762a8021bd08c59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c6ddc498e237ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7b126daf3a61c921",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-file-cleaner:Clean files": false
+    }
+  },
+  "active": "32b7fa3453dd3f06",
+  "lastOpenFiles": [
+    "images/Normal Forms-20250306194700857.png",
+    "images/Normal Forms-20250306194629292.png",
+    "Propositions.md",
+    "Tautologies & Logical Equivalence.md",
+    "Laws of Boolean Algebra.md",
+    "Normal Forms.md",
+    "images/Normal Forms-20250306194531457.png",
+    "images/Normal Forms-20250306194434533.png",
+    "images/Laws of Boolean Algebra-20250306194047698.png",
+    "images/Tautologies & Logical Equivalence-20250306193932104.png",
+    "images/Tautologies & Logical Equivalence-20250306193656127.png",
+    "images/Tautologies & Logical Equivalence-20250306193452161.png",
+    "images/Propositions-20250306193018424.png",
+    "images/Propositions-20250306193010597.png",
+    "images/Propositions-20250306193003668.png",
+    "Logical Operations.md",
+    "Definitions, Theorems, Proofs.md",
+    "Languages.md",
+    "images",
+    "Norman's Principles.md",
+    "WCAG.md",
+    "Nielsen’s Heuristic Evaluation.md",
+    "Signifiers.md",
+    "Discoverability.md",
+    "Affordances.md",
+    "Gestalt Principles.md",
+    "Shneiderman's Golden Rules.md",
+    "Laws of UX.md",
+    "Navigation Design.md",
+    "Heuristic Evaluation.md",
+    "Visual Design.md",
+    "Navigation.md",
+    "Menu Types.md",
+    "Accessibility Guidelines.md",
+    "Modelling the Cognitive Process.md",
+    "Human Computer Interaction.md",
+    "Usability Testing.md",
+    "Human Computer Interaction",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Excalidraw",
+    "images/Notes – MNET x CCA cooking session.pdf",
+    "Excalidraw/images"
+  ]
+}
