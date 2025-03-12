@@ -115,12 +115,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "e33e07216feda86f",
@@ -217,7 +217,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "db2888cb84b345ea",
+  "active": "f07df19bcfaade2f",
   "lastOpenFiles": [
     "images/VR-AR Taxonomies-20250307155507547.png",
     "images/VR-AR Taxonomies-20250307155348297.png",
